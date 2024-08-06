@@ -56,3 +56,15 @@ body {
   max-width: 800px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+
