@@ -1,4 +1,4 @@
-// src/components/TransactionTable.js
+
 import React from "react";
 
 const TransactionTable = ({ transactions}) => {
